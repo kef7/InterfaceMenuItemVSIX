@@ -4,6 +4,7 @@
 		<Identity Id="InterfaceMenuItemVSIX.63c4604c-cd61-47c1-9668-449b43214cf6" Version="1.0" Language="en-US" Publisher="kef" />
 		<DisplayName>Add Interface Menu Item</DisplayName>
 		<Description>Inserts a menu item to create an interface file into the Add menu.</Description>
+		<Tags>interface, C#, add file</Tags>
 	</Metadata>
 	<Installation>
 		<InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
