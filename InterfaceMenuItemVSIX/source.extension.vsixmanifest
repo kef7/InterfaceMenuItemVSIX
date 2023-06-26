@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="InterfaceMenuItemVSIX.63c4604c-cd61-47c1-9668-449b43214cf6" Version="1.0.0" Language="en-US" Publisher="kef" />
+        <Identity Id="InterfaceMenuItemVSIX.63c4604c-cd61-47c1-9668-449b43214cf6" Version="1.0.0" Language="en-US" Publisher="kef7" />
         <DisplayName>Interface Menu Item</DisplayName>
         <Description xml:space="preserve">Inserts a new menu item, under the Add sub-menu in the context menu of the Solution Explorer, that will allow you to quickly create a new interface file from the project template.</Description>
         <MoreInfo>https://marketplace.visualstudio.com/items?itemName=kef.InterfaceMenuItemVSIX</MoreInfo>
